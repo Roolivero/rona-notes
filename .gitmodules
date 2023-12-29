@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/Roolivero/rona-notes-app.git
+[submodule "api"]
+	path = api
+	url = https://github.com/Roolivero/rona-notes-api.git
+[submodule "database"]
+	path = database
+	url = https://github.com/GiulianoPoeta99/postgres.git
